@@ -1,22 +1,47 @@
+<h1 align="center">Hello World! I'm Miguel Alexandre 👋</h1>
 
-### Ola! Eu sou o Miguel Alexandre👋
+###
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-alexandre-torres-gomes-96a081240/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/miguel_a_t_g/)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=angular" height="60" alt="angularjs logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=pr" height="60" alt="adobepremierepro logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
+</div>
 
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelAlexandreTorresGomes&show_icons=true&theme=dark)-->
+###
+<div align="center">
+  <a href="https://www.linkedin.com/in/miguel-alexandre-torres-gomes-96a081240/" target="_blank" style="text-decoration:none!important;">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="37" alt="linkedin logo"/>
+  </a>
+  <a href="https://www.instagram.com/miguel_a_t_g/" target="_blank" style="text-decoration:none!important;">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="37" alt="instagram logo"/>
+  </a>
+  <a href="mailto:seuemail@gmail.com" style="text-decoration:none!important;">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="37" alt="gmail logo"/>
+  </a>
+</div>
 
-<br/>
-<h1>Experiência com algumas tecnologias, como</h1>
-<div style="display:inline_block;"><br/>
-  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img align="center" alt="BOOTSTRAP" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img align="center" alt="TS" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img align="center" alt="ANGULAR" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MiguelAlexandreTorresGomes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="180" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MiguelAlexandreTorresGomes&locale=en&hide_title=false&layout=compact&card_width=380&langs_count=6&theme=github_dark&hide_border=true&order=2" height="350" alt="languages graph"/>
+  <img src="https://github-profile-trophy.vercel.app?username=MiguelAlexandreTorresGomes&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="180" alt="trophy graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MiguelAlexandreTorresGomes&radius=16&theme=github-dark&area=false&order=5&hide_border=true&hide_title=false" height="250" alt="activity-graph graph"/>
 </div>
