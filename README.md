@@ -37,7 +37,6 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MiguelAlexandreTorresGomes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="180" alt="stats graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MiguelAlexandreTorresGomes&locale=en&hide_title=false&layout=compact&card_width=380&langs_count=6&theme=github_dark&hide_border=true&order=2" height="350" alt="languages graph"/>
   <img src="https://github-profile-trophy.vercel.app?username=MiguelAlexandreTorresGomes&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="180" alt="trophy graph"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MiguelAlexandreTorresGomes&radius=16&theme=github-dark&area=false&order=5&hide_border=true&hide_title=false" height="250" alt="activity-graph graph"/>
