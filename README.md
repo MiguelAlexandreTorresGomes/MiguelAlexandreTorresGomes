@@ -38,6 +38,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MiguelAlexandreTorresGomes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="300" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=MiguelAlexandreTorresGomes&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="180" alt="trophy graph"/>
+  
 
 </div>
