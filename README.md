@@ -22,6 +22,8 @@
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="figma logo"  />
 </div>
 
 ###
